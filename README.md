@@ -2,7 +2,7 @@
 
 > E esta porra é perfeita. 
 
-# Está porra é uma tabela de conteúdo:
+## Está porra é uma tabela de conteúdo:
 
 * [Sério, o que mais você quer?](#sério-o-que-mais-você-quer)
     * [Deixe-me descrever um repositório perfeito.](#deixe-me-descrever-um-repositório-perfeito)
