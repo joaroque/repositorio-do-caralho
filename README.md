@@ -16,11 +16,11 @@
 
 ## Sério, o que mais você quer?
 
-Você provavelmente cria repositórios e pensa que sua merda é especial. Você acha que esses badges coloridos e GIFs de 8 megabytes vai te dar um prêmio de melhor repositório do ano para colocar no fim do README. Você acha que seus banners e emojies deixam os programadores de pau duro porque finalmente tem aparência com o site do DrewHouse. 
+Você provavelmente cria repositórios e pensa que sua merda é especial. Você acha que esses badges coloridos e GIFs de 8 megabytes vai te dar um prêmio de melhor repositório do ano para colocar no fim do README. Você acha que seus banners e emojis deixam os programadores de pau duro porque finalmente tem aparência com o site do [DrewHouse](https://thehouseofdrew.com/). 
 
 Amigo se você precisa seguidores acesse o Instagram. Essa merda não é uma rede social para ficar pedindo seguidores e likes, você não ganhará merda nenhuma com isso. Nós queremos programar não ver teus 20k seguidores. 
 
-Não amigo, isso não é o README AWARDS, você não precisa colocar tanta merda no teu repositório. Aliás, você acha que esse `commits` desorganizados e um código lixo atrai contribuições. Errado, filho da puta... 
+Não amigo, isso não é o README AWARDS, você não precisa colocar tanta merda no teu repositório. Aliás, você acha que esse commits desorganizados e um código lixo atrai contribuições. Errado, filho da puta... 
 
 ### Deixe-me descrever um repositório perfeito:
 - Os diretórios são bem estruturados
@@ -60,8 +60,8 @@ Eu não estou dizendo que o seu repositório de merda deveria se parecer com ist
 Este repositório é uma adaptação do [website do caralho](https://websitedocaralho.com.br/).
 
 ## Autor
-Um pobre sonhador que vive de freela. 
-> Já que insistem em fazer doações para mim, então tá. Paypal: [paypal.me/GJamba](paypal.me/GJamba)
+Um pobre sonhador que vive em algum canto de África. 
+> Já que insistem em fazer doações, então tá. Paypal: [paypal.me/GJamba](paypal.me/GJamba)
 
 ## Licença
 Pode até tatuar essa merda no c#!!!
