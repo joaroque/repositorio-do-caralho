@@ -65,7 +65,6 @@ Este repositório é uma adaptação do [website do caralho](https://websitedoca
 
 ## Autor
 Um pobre sonhador que vive em algum canto de África. 
-> Já que insistem em fazer doações, então tá: [paypal.me/GJamba](paypal.me/GJamba)
 
 ## Licença
 Pode até tatuar essa merda no c#!!!
